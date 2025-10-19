@@ -4,6 +4,16 @@ You can directly copy the text below and save it as your `README.md` file in you
 
 -----
 
+# 🙏 Credits and Original Work
+
+This repository is a set of example scripts and a project structure built around the excellent **kokoro-onnx** Python package.
+
+All core credit for the package and model implementation goes to the original author, **thewh1teagle**.
+
+- **Original Repository:** [https://github.com/thewh1teagle/kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx)
+
+- **Additional thanks to:** [Sam Witteveen](https://youtu.be/tl1wvZXlj0I?si=R_DGlywamCO6PE3z) for his video that bought th possibilies to my attention.
+
 # 🗣️ Kokoro ONNX Text-to-Speech (CPU Focus)
 
 An asynchronous Python wrapper for the powerful, small **Kokoro-82M TTS model** utilizing the ONNX Runtime for efficient CPU-based speech generation on Linux systems.
