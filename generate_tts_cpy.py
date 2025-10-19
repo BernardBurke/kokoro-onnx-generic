@@ -6,7 +6,7 @@ import os
 
 # --- 1. Settings ---
 text_to_say = "This is a new test. We are using the CPU to ensure maximum compatibility on Linux Mint."
-output_filename = "onnx_cpu_output.wav"
+output_filename = "/tmp/onnx_cpu_output.wav"
 
 
 # Model files in the same folder
