@@ -1,0 +1,10 @@
+.venv/
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Kokoro-onnx specific binaries (DO NOT COMMIT LARGE FILES)
+kokoro-v*.onnx
+voices-v*.bin
+*.wav     # Generated audio output
