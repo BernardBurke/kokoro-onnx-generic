@@ -1,7 +1,3 @@
-That's an astute question\! I was a bit vague in the previous response. The output I provided *is* already formatted using **Markdown**.
-
-You can directly copy the text below and save it as your `README.md` file in your repository. It includes all the headings, lists, code blocks, and bold formatting you'd expect in a high-quality README.
-
 -----
 
 # 🙏 Credits and Original Work
